@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SuperBiou</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [VoidTeam](https://voidteamsai.github.io)
+- 🔭 I’m currently working on [my discord server ](dsc.gg/biou)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
