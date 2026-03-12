@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm SuperBiou</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [my discord server ](dsc.gg/biou)
+- 🔭 I’m currently working on [my discord server ](https://discord.com/invite/7b27eT24SB))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@lachainedesuperbiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lachainedesuperbiou" height="30" width="40" /></a>
-<a href="dsc.gg/biou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shhr3323wq" height="30" width="40" /></a>
+<a href="[dsc.gg/biou](https://discord.com/invite/7b27eT24SB)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shhr3323wq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
